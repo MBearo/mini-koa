@@ -3,6 +3,7 @@
 > 逐步实现一个简单的koa，了解下核心原理：ctx 和 middleware 
 
 ## 准备
+
 demo地址：https://github.com/MBearo/mini-koa/tree/main
 
 想要理解demo，需要首先知道
@@ -212,8 +213,8 @@ koa的实现是用了个第三方包，那个包里核心的api就是 __defineGe
 
 其实Object.defineProperty也可以实现
 
-
 ## 实现中间件的按顺序执行
+
 这个应该算是核心功能
 
 先用官方的尝试一下
