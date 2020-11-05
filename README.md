@@ -311,4 +311,4 @@ handleRequest(req, res) {
 
 附一张koa原理图
 
-![redux](/image2019-4-16 14_20_26.png)
+![koa](image2019-4-16 14_20_26.png)
