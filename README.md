@@ -4,7 +4,7 @@
 
 ## 准备
 
-demo地址：https://github.com/MBearo/mini-koa/tree/main
+demo地址：https://github.com/MBearo/mini-koa
 
 想要理解demo，需要首先知道
 
